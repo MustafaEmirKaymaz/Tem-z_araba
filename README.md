@@ -23,17 +23,24 @@ Bu botun amacı, arabaların çevreye olan etkilerini (hava kirliliği açısın
 
 ### 1. Gerekli Python Paketleri:
 
-'pip install tensorflow'
-'pip install -U discord.py'
-'pip install pillow'
-
+```bash
+pip install tensorflow
+pip install -U discord.py
+pip install pillow
+pip install numpy
+```
 
 
 **Dosya Yapısı**
 │
+
 ├── bot.py               # Ana Discord bot kodu
+
 ├── model.py             # Tahmin modeli işlemleri
+
 ├── keras_model.h5       # Eğitimli model dosyası
+
 ├── labels.txt           # Sınıf etiketleri
+
 └── images/              # Kullanıcıdan gelen görseller buraya kaydedilir
 
