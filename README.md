@@ -31,6 +31,7 @@ pip install numpy
 ```
 
 
+
 **Dosya Yapısı**
 │
 
@@ -44,3 +45,7 @@ pip install numpy
 
 └── images/              # Kullanıcıdan gelen görseller buraya kaydedilir
 
+##Kullanım şekl
+```bash
+ $yukle
+ 
