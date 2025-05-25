@@ -1,0 +1,4 @@
+0 Baya Kirli Araba  
+1 Kirli Araba  
+2 Az kirli Araba  
+3 Temiz Araba  
